@@ -6,7 +6,7 @@ Olá! Sou Carlos, um apaixonado por criar experiências incríveis na web como d
 <br>
 
 # Portfólio 
-## <a href=""> Clique Aqui! </a>
+### <a href=""> Clique Aqui! </a>
 
 <br>
 
@@ -23,8 +23,6 @@ Olá! Sou Carlos, um apaixonado por criar experiências incríveis na web como d
 </div>
 
 <br>
-
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduts&show_icons=true&theme=radical)
 
 ## Entre em Contato
 
