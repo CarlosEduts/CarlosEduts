@@ -1,6 +1,6 @@
-**Biografia GitHub de Carlos - Desenvolvedor Front-end**
+**Carlos - Desenvolvedor Front-end & Estudante Full Stack**
 
-👋 Olá, sou Carlos, um entusiasta da tecnologia apaixonado por criar experiências digitais incríveis. Atualmente, estou imerso no mundo do desenvolvimento Front-end.
+👋 Olá, eu sou Carlos, um entusiasta da tecnologia apaixonado por criar experiências incríveis na web. Atualmente, me dedico ao desenvolvimento front-end.
 
 🚀 **Habilidades:**
 - JavaScript
@@ -9,9 +9,9 @@
 - Git
 
 📚 **Educação:**
-- Atualmente estudando Desenvolvimento Full Stack.
+- Atualmente estudando Desenvolvimento Full Stack com Node.js no Backend.
 
-📱 **Contato:**
+📫 **Entre em Contato:**
 - E-mail: [carlos4866287k@outlook.com](mailto:carlos4866287k@outlook.com)
 - LinkedIn: [Carlosedutis](http://www.linkedin.com/in/carlosedutis)
 - Instagram: [@carloseduti](https://www.instagram.com/carloseduti)
