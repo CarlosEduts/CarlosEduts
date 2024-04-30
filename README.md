@@ -6,17 +6,12 @@
 - JavaScript
 - HTML
 - CSS
+- React
 - Git
 
-📚 **Educação:**
-- Atualmente estudando Desenvolvimento Full Stack com Node.js no Backend.
-
 📫 **Entre em Contato:**
-- E-mail: [carlos4866287k@outlook.com](mailto:carlos4866287k@outlook.com)
+- Portfólio Online: [carlosdev.xyz](https://www.carlosdev.xyz)
 - LinkedIn: [Carlosedutis](http://www.linkedin.com/in/carlosedutis)
 - Instagram: [@carloseduti](https://www.instagram.com/carloseduti)
-
-💻 **Portfólio:**
-- Confira meu portfólio em [carlosdev.xyz](https://www.carlosdev.xyz) para ter uma visão mais detalhada dos projetos em que estou trabalhando.
 
 Sinta-se à vontade para explorar meu perfil e entrar em contato para discussões, colaborações ou apenas para trocar ideias.
