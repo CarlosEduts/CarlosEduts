@@ -1,4 +1,4 @@
-**Carlos - Desenvolvedor Front-end & Estudante Full Stack**
+**Carlos - Desenvolvedor Front-end**
 
 👋 Olá, eu sou Carlos, um entusiasta da tecnologia apaixonado por criar experiências incríveis na web. Atualmente, me dedico ao desenvolvimento front-end.
 
