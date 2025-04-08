@@ -1,8 +1,8 @@
-<h1 align="left">👋 Olá, eu sou Carlos!</h1>
+<h1 align="left">✦ Ei, sou o Carlos.</h1>
 
 ###
 
-<p align="left">Sou um desenvolvedor Front-end apaixonado por brincar com pixels e cores.</p>
+<p align="left">Gosto de escrever código com o mesmo cuidado que se escreve uma boa história: com estrutura, intenção e aquele toque visual que prende até o fim.</p>
 
 ###
 
@@ -19,6 +19,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="Next.js" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="nextjs logo" title="Tailwind CSS" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" title="Git" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="GitHub" />
@@ -34,7 +36,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/carlos-eduardo-464206336" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1d1d1d&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=IN&color=1d1d1d&logoColor=white&labelColor=1d1d1d&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/carloseduti" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1d1d1d&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
