@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/carlos-eduardo-464206336" target="_blank">
+  <a href="https://www.linkedin.com/in/cedutdev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=IN&color=1d1d1d&logoColor=white&labelColor=1d1d1d&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/carloseduti" target="_blank">
