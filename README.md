@@ -1,6 +1,6 @@
 <h1 align="center">✦ Ei, sou o Carlos.</h1>
 <div align="center">
-  <img src="./linkedin-banner.png"  />
+  <img src="./banner.png"  />
 </div>
 
 ###
